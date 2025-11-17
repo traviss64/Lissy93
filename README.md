@@ -130,7 +130,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/Lissy93/awesome-privacy/pull/187) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. 🗣 Commented on [#2098](https://github.com/floccusaddon/floccus/issues/2098) in [floccusaddon/floccus](https://github.com/floccusaddon/floccus)
 2. 🎉 Merged PR [#165](https://github.com/Lissy93/git-into-open-source/pull/165) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
 3. 💪 Opened PR [#166](https://github.com/Lissy93/git-into-open-source/pull/166) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
 4. 💪 Opened PR [#164](https://github.com/Lissy93/git-into-open-source/pull/164) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
