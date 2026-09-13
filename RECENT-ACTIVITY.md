@@ -11,7 +11,7 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7973](https://github.com/janhq/jan/issues/7973) in [janhq/jan](https://github.com/janhq/jan)
+1. ❗ Opened issue [#431](https://github.com/rosuH/EasyWatermark/issues/431) in [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark)
 2. 🎉 Merged PR [#165](https://github.com/Lissy93/git-into-open-source/pull/165) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
 3. 💪 Opened PR [#166](https://github.com/Lissy93/git-into-open-source/pull/166) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
 4. 💪 Opened PR [#164](https://github.com/Lissy93/git-into-open-source/pull/164) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
